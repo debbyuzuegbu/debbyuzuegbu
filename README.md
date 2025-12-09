@@ -11,17 +11,17 @@
 
 - 😊 Pronouns: She/her
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m skilled at **React.js**
 
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I'm done at Access bank and I schooled at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 
 - 👨‍💻 Some of my project are on my portfolio 
 
-- 💬 Ask me about anything ** react.js, javascript, Html ,css **
+- 💬 Ask me about anything ** Next.js, react.js, javascript, Html ,css **
 
 - 📫 You can reach out to me via my email **debbyuzuegbu@gmail.com**
 
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m looking for help with open source projects, hackathons, and mid-level opportunities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,15 +39,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debbyuzuegbu&" alt="debbyuzuegbu" /></p>
 
 
-<!-- I'm a Software Engineer, financial Analyst.
+<!-- I'm a Software Engineer, frontend developer.
 
 **Here's a quick summary about me**:
 
 r
 
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
+- 🌱 I’m currently learning JavaScript, Reactjs, and Nextjs .
 
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Senior level).
 - 📫 You can [view my resume](#) and contact me by emailing mailtodebbyuzuegbu@gmail.com.
 
 ---
