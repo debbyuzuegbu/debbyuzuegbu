@@ -1,57 +1,166 @@
-# Hello, My name is Deborah Uzuegbu; welcome 👋
+<div align="center">
 
-[![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white&link=https://altschoolafrica.com/schools/engineering)](https://altschoolafrica.com/schools/engineering) [![Website Badge](https://img.shields.io/badge/-debbyuzuegbu.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://debbyuzuegbu.com)](https://debbyuzuegbu.com) [![Linkedin Badge](https://img.shields.io/badge/-debbyuzuegbu-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deborah-uzuegbu)](https://www.linkedin.com/in/deborah-uzuegbu) [![Twitter Badge](https://img.shields.io/badge/-@debbyuzuegbu-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/debbyuzuegbu)](https://twitter.com/debbyuzuegbu)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6773E5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Deborah+Uzuegbu+%F0%9F%91%8B;Frontend+Engineer+%7C+5+Years+Experience;React+%C2%B7+Next.js+%C2%B7+TypeScript;Building+at+Scale+in+Fintech+%26+EdTech" alt="Typing SVG" />
 
-<h3 align="center">I am a Frontend Developer skilled with React.js, NextJs, ReactNative, javaScript, css/scss and Html.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debbyuzuegbu&label=Profile%20views&color=0e75b6&style=flat" alt="debbyuzuegbu" /> </p>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debbyuzuegbu" alt="debbyuzuegbu" /></a> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-debbyuzuegbu.com-6773E5?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://debbyuzuegbu.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deborah_Uzuegbu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborah-uzuegbu)
+[![Twitter](https://img.shields.io/badge/Twitter-@debbyuzuegbu-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/debbyuzuegbu)
+[![Email](https://img.shields.io/badge/Email-debbyuzuegbu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debbyuzuegbu@gmail.com)
 
-<p align="left"> <a href="https://twitter.com/debbyuzuegbu" target="blank"><img src="https://img.shields.io/twitter/follow/debbyuzuegbu?logo=twitter&style=for-the-badge" alt="debbyuzuegbu" /></a> </p>
+<br/>
 
-- 😊 Pronouns: She/her
+![Profile Views](https://komarev.com/ghpvc/?username=debbyuzuegbu&label=Profile+Views&color=6773E5&style=flat-square)
+&nbsp;&nbsp;
+![Open to Work](https://img.shields.io/badge/Open%20To-Remote%20Roles%20%26%20Freelance-brightgreen?style=flat-square)
 
-- 🌱 I’m skilled at **React.js, NextJs, ReactNative, javaScript**
-
-- 💡 Fun fact: I'm done at Access bank and I schooled at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-
-- 👨‍💻 Some of my project are on my portfolio 
-
-- 💬 Ask me about anything ** Next.js, react.js, javascript, Html ,css **
-
-- 📫 You can reach out to me via my email **debbyuzuegbu@gmail.com**
-
-- 😊 I’m looking for help with open source projects, hackathons, and mid-level opportunities.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/debbyuzuegbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debbyuzuegbu" height="30" width="40" /></a>
-<!-- <a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/abdulsalam-mohammed-46896922b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/abdulsalam-mohammed-46896922b" height="30" width="40" /></a>
-</p> -->
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debbyuzuegbu&show_icons=true&locale=en&layout=compact" alt="debbyuzuegbu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debbyuzuegbu&show_icons=true&locale=en" alt="debbyuzuegbu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debbyuzuegbu&" alt="debbyuzuegbu" /></p>
-
-
-<!-- I'm a Software Engineer, frontend developer.
-
-**Here's a quick summary about me**:
-
-r
-
-- 🌱 I’m currently learning JavaScript, Reactjs, and Nextjs .
-
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Senior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtodebbyuzuegbu@gmail.com.
+</div>
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=debbyuzuegbu&show_icons=true&include_all_commits=true&hide_border=true" alt="Debby's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debbyuzuegbu&langs_count=8&layout=compact&hide_border=true" alt="Debby's GitHub stats" /> |
-| ------------- | ------------- |
- -->
+## 👩🏽‍💻 About Me
+
+I'm a **Frontend Engineer with 5 years of experience** building high-performance, scalable web applications for fintech and EdTech companies. Currently at **Access Bank** — one of Africa's largest financial institutions — where I ship products used by **500+ companies** and millions of customers.
+
+I care about clean architecture, seamless UX, and frontend performance at scale. I've worked across IMTO platforms, Progressive Web Apps, real-time chat systems, payment flows, and enterprise banking dashboards.
+
+```
+🏦 Currently   → Frontend Engineer @ Access Bank, Lagos
+🌍 Open to     → Remote roles & freelance contracts
+⚡ Specialises → React · Next.js · TypeScript · Fintech · EdTech
+📍 Based in    → Lagos, Nigeria
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Styling**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+**State & Data**
+
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+
+**Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Tools & Process**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🏦 Where I've Built
+
+### Access Bank &nbsp; `Oct 2023 – Present` &nbsp; · &nbsp; Lagos, Nigeria
+> *One of Africa's top-tier commercial banks, operating across 20+ countries*
+
+- 🚀 Built the **IMTO platform** — enabling real-time cross-border fund transfers for businesses and individuals globally
+- 📱 Led frontend development of **AccessPlus PWA** — a zero-data USSD banking alternative, reducing infrastructure costs at scale
+- 🏆 Core team on **PrimusPlus** launch — enterprise banking hub now used by **500+ companies** for payments, payroll, and collections
+- 🔗 Integrated APIs for fund transfers, loan processing, balance checks, and secure authentication
+- 🎨 Implemented pixel-perfect Figma designs into optimized, responsive UI/UX experiences
+
+### Techchak &nbsp; `May 2023 – Oct 2023` &nbsp; · &nbsp; Remote (Texas, USA)
+> *EdTech platform connecting IT professionals with mentors*
+
+- 💬 Built a real-time chat system with **WebSockets + Zustand**, boosting user engagement by **40%**
+- 💳 Implemented secure payment flows using **Stripe** and **Paystack**
+- 🎮 Shipped a gamified **quiz engine** with live scoring, progress tracking, and leaderboards
+
+### Tradefiti &nbsp; `Jan 2023 – May 2023` &nbsp; · &nbsp; Remote (Kenya)
+> *Online forex trading platform*
+
+- 📈 Delivered customer-facing features using **Next.js** and **Chakra UI**
+- ✨ Improved UI/UX and boosted customer satisfaction by **25%**
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🏦 **IMTO Platform** | Cross-border fund transfer system for international money operators | Next.js · Tailwind · Stripe · Azure |
+| 🏢 **PrimusPlus** | Enterprise banking hub for 500+ companies — payments, payroll, collections | Next.js · Tailwind · Zustand · Azure |
+| 📱 **AccessPlus PWA** | Zero-data USSD alternative banking app for mass-market access | Next.js · Tailwind · Zustand · Azure |
+| 🎓 **Techchak** | Mentor discovery + EdTech platform with live chat & quiz engine | React.js · Mantine · Zustand |
+| 📊 **Deliverable Tracker** | MCC deliverable tracking system for financial workflow management | Next.js · Tailwind · Zustand · Azure |
+| 📈 **Tradefiti** | Forex trading platform with responsive customer-facing features | React.js · Chakra UI · Zustand |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=debbyuzuegbu&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6773E5&icon_color=6773E5" alt="Deborah's GitHub Stats"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=debbyuzuegbu&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6773E5" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=debbyuzuegbu&theme=tokyonight&hide_border=true&background=0D1117&ring=6773E5&fire=6773E5&currStreakLabel=6773E5" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=debbyuzuegbu&theme=tokyonight&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Deborah's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=debbyuzuegbu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6773E5&line=6773E5&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🤝 Let's Work Together
+
+I'm actively open to **remote full-time roles** and **freelance contracts** — especially in fintech, SaaS, and product companies where frontend quality and performance actually matter.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-debbyuzuegbu.com-6773E5?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://debbyuzuegbu.com)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debbyuzuegbu@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborah-uzuegbu)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Based in Lagos, Nigeria · Available for remote work worldwide</i>
+</div>
