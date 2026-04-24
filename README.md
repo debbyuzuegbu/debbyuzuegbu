@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6773E5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Deborah+Uzuegbu+%F0%9F%91%8B;Frontend+Engineer+%7C+5+Years+Experience;React+%C2%B7+Next.js+%C2%B7+TypeScript;Building+at+Scale+in+Fintech+%26+EdTech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6773E5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Deborah+Uzuegbu+%F0%9F%91%8B;Frontend+%26+Mobile+Engineer;React+%C2%B7+Next.js+%C2%B7+React+Native;5+Years+%7C+Fintech+%26+EdTech" alt="Typing SVG" />
 
 <br/>
 
@@ -21,14 +21,14 @@
 
 ## 👩🏽‍💻 About Me
 
-I'm a **Frontend Engineer with 5 years of experience** building high-performance, scalable web applications for fintech and EdTech companies. Currently at **Access Bank** — one of Africa's largest financial institutions — where I ship products used by **500+ companies** and millions of customers.
+I'm a **Frontend & Mobile Engineer with 5 years of experience** building high-performance, scalable web and mobile applications for fintech and EdTech companies. Currently at **Access Bank** — one of Africa's largest financial institutions — where I ship products used by **500+ companies** and millions of customers.
 
-I care about clean architecture, seamless UX, and frontend performance at scale. I've worked across IMTO platforms, Progressive Web Apps, real-time chat systems, payment flows, and enterprise banking dashboards.
+I build across the full frontend spectrum — from enterprise web portals to cross-platform mobile apps. I've shipped IMTO platforms, Progressive Web Apps, React Native mobile apps, real-time chat systems, payment flows, and enterprise banking dashboards.
 
 ```
-🏦 Currently   → Frontend Engineer @ Access Bank, Lagos
-🌍 Open to     → Remote roles & freelance contracts
-⚡ Specialises → React · Next.js · TypeScript · Fintech · EdTech
+🏦 Currently   → Frontend & Mobile Engineer @ Access Bank, Lagos
+🌍 Open to     → Remote roles & freelance contracts (web & mobile)
+⚡ Specialises → React · Next.js · React Native · TypeScript · Fintech
 📍 Based in    → Lagos, Nigeria
 ```
 
@@ -44,6 +44,11 @@ I care about clean architecture, seamless UX, and frontend performance at scale.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 **Styling**
 
@@ -105,8 +110,8 @@ I care about clean architecture, seamless UX, and frontend performance at scale.
 | 🏦 **IMTO Platform** | Cross-border fund transfer system for international money operators | Next.js · Tailwind · Stripe · Azure |
 | 🏢 **PrimusPlus** | Enterprise banking hub for 500+ companies — payments, payroll, collections | Next.js · Tailwind · Zustand · Azure |
 | 📱 **AccessPlus PWA** | Zero-data USSD alternative banking app for mass-market access | Next.js · Tailwind · Zustand · Azure |
+| 🧺 **UrbanWash** | React Native laundry app — real-time order tracking & admin dashboard | React Native · Expo · Firebase |
 | 🎓 **Techchak** | Mentor discovery + EdTech platform with live chat & quiz engine | React.js · Mantine · Zustand |
-| 📊 **Deliverable Tracker** | MCC deliverable tracking system for financial workflow management | Next.js · Tailwind · Zustand · Azure |
 | 📈 **Tradefiti** | Forex trading platform with responsive customer-facing features | React.js · Chakra UI · Zustand |
 
 ---
@@ -147,7 +152,7 @@ I care about clean architecture, seamless UX, and frontend performance at scale.
 
 ## 🤝 Let's Work Together
 
-I'm actively open to **remote full-time roles** and **freelance contracts** — especially in fintech, SaaS, and product companies where frontend quality and performance actually matter.
+I'm actively open to **remote full-time roles** and **freelance contracts** — web or mobile — especially in fintech, SaaS, and product companies where quality and performance actually matter.
 
 <div align="center">
 
