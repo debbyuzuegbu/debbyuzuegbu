@@ -5,7 +5,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-debbyuzuegbu.com-6773E5?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://debbyuzuegbu.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deborah_Uzuegbu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborah-uzuegbu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deborah_Uzuegbu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborah-chinyere-uzuegbu)
 [![Twitter](https://img.shields.io/badge/Twitter-@debbyuzuegbu-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/debbyuzuegbu)
 [![Email](https://img.shields.io/badge/Email-debbyuzuegbu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debbyuzuegbu@gmail.com)
 
